@@ -1,6 +1,8 @@
 # VRC-SKY
 VRChat Remote Image Loading Skyboxes
 
+[![Demo](https://img.youtube.com/vi/1dXKexeS-uA/maxresdefault.jpg)](https://youtu.be/1dXKexeS-uA)
+
 I included:
 - [Skybox.cs] which is a specialized bulk image downloader for Skyboxes
 - [Skybox.mat] which is the material used by Skybox.cs, don't set this as your scene skybox
