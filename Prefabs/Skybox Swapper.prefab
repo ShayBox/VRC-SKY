@@ -1398,7 +1398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactTextPlacement: {fileID: 0}
-  interactText: Click to Swap Skybox (Requires Untrusted URLs)
+  interactText: Click to Swap Skybox
   interactTextGO: {fileID: 0}
   proximity: 5
   SynchronizePosition: 0
@@ -4770,7 +4770,7 @@ MonoBehaviour:
   skyboxUrls:
   - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Front.png
   - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Back.png
-  - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10Left.png
+  - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Left.png
   - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Right.png
   - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Up.png
   - url: https://shaybox.github.io/VRC-SKY/Skyboxes/8K_Skybox_Pack_Free/sky-10/Down.png
