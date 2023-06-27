@@ -91,7 +91,12 @@ public class Skybox : UdonSharpBehaviour {
         Debug.Log($"Image not loaded: {result.Error}: {result.ErrorMessage}.");
     }
 
-    private void OnDestroy() {
+    private void OnDestroy()
+    {
+        _imageDownloader.Dispose();
+    }
+
+    private void OnDisable() {
         _imageDownloader.Dispose();
     }
 }

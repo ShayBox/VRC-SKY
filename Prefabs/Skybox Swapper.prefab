@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 3928582209750358271}
   - component: {fileID: 3928582209750358270}
   m_Layer: 0
-  m_Name: sky-3
+  m_Name: Sky 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ GameObject:
   - component: {fileID: 3928582209782223227}
   - component: {fileID: 3928582209782223226}
   m_Layer: 0
-  m_Name: MegaSun
+  m_Name: Mega Sun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -540,7 +540,7 @@ GameObject:
   - component: {fileID: 3928582209805634007}
   - component: {fileID: 3928582209805634006}
   m_Layer: 0
-  m_Name: DayInTheClouds
+  m_Name: Day In The Clouds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 3928582209824815084}
   - component: {fileID: 3928582209824815087}
   m_Layer: 0
-  m_Name: sky-1
+  m_Name: Sky 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -936,7 +936,7 @@ GameObject:
   - component: {fileID: 3928582210129174604}
   - component: {fileID: 3928582210129174607}
   m_Layer: 0
-  m_Name: sky-2
+  m_Name: Sky 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1068,7 +1068,7 @@ GameObject:
   - component: {fileID: 3928582210223510417}
   - component: {fileID: 3928582210223510416}
   m_Layer: 0
-  m_Name: sky-11
+  m_Name: Sky 11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1423,7 +1423,7 @@ GameObject:
   - component: {fileID: 3928582210411179158}
   - component: {fileID: 3928582210411179177}
   m_Layer: 0
-  m_Name: sky-8
+  m_Name: Sky 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1555,7 +1555,7 @@ GameObject:
   - component: {fileID: 3928582210519754026}
   - component: {fileID: 3928582210519754029}
   m_Layer: 0
-  m_Name: PlanetaryEarth
+  m_Name: Planetary Earth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1687,7 +1687,7 @@ GameObject:
   - component: {fileID: 3928582210553856637}
   - component: {fileID: 3928582210553856636}
   m_Layer: 0
-  m_Name: FluffballDay
+  m_Name: Fluffball Day
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1819,7 +1819,7 @@ GameObject:
   - component: {fileID: 3928582210559648613}
   - component: {fileID: 3928582210559648612}
   m_Layer: 0
-  m_Name: SkyhighFluffycloudField
+  m_Name: Skyhigh Fluffycloud Field
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2083,7 +2083,7 @@ GameObject:
   - component: {fileID: 3928582210650842143}
   - component: {fileID: 3928582210650842142}
   m_Layer: 0
-  m_Name: CasualDay
+  m_Name: Casual Day
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2479,7 +2479,7 @@ GameObject:
   - component: {fileID: 3928582210760422098}
   - component: {fileID: 3928582210760422101}
   m_Layer: 0
-  m_Name: DarkStorm
+  m_Name: Dark Storm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2611,7 +2611,7 @@ GameObject:
   - component: {fileID: 3928582210948890537}
   - component: {fileID: 3928582210948890536}
   m_Layer: 0
-  m_Name: sky-6
+  m_Name: Sky 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2743,7 +2743,7 @@ GameObject:
   - component: {fileID: 3928582210966858821}
   - component: {fileID: 3928582210966858820}
   m_Layer: 0
-  m_Name: HighFantasy
+  m_Name: High Fantasy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3007,7 +3007,7 @@ GameObject:
   - component: {fileID: 3928582211016545635}
   - component: {fileID: 3928582211016545634}
   m_Layer: 0
-  m_Name: sky-7
+  m_Name: Sky 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3139,7 +3139,7 @@ GameObject:
   - component: {fileID: 3928582211104382481}
   - component: {fileID: 3928582211104382480}
   m_Layer: 0
-  m_Name: SunlessCirruscover
+  m_Name: Sunless Cirruscover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3271,7 +3271,7 @@ GameObject:
   - component: {fileID: 3928582211109322883}
   - component: {fileID: 3928582211109322882}
   m_Layer: 0
-  m_Name: CloudyMorning
+  m_Name: Cloudy Morning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3403,7 +3403,7 @@ GameObject:
   - component: {fileID: 3928582211117805335}
   - component: {fileID: 3928582211117805334}
   m_Layer: 0
-  m_Name: sky-4
+  m_Name: Sky 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3667,7 +3667,7 @@ GameObject:
   - component: {fileID: 3928582211194661909}
   - component: {fileID: 3928582211194661908}
   m_Layer: 0
-  m_Name: CloudedSunGlow
+  m_Name: Clouded Sun Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3799,7 +3799,7 @@ GameObject:
   - component: {fileID: 3928582211210217319}
   - component: {fileID: 3928582211210217318}
   m_Layer: 0
-  m_Name: UnderTheSea
+  m_Name: Under The Sea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3931,7 +3931,7 @@ GameObject:
   - component: {fileID: 3928582211218843910}
   - component: {fileID: 3928582211218843929}
   m_Layer: 0
-  m_Name: UnearthlyRed
+  m_Name: Unearthly Red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4063,7 +4063,7 @@ GameObject:
   - component: {fileID: 3928582211261073653}
   - component: {fileID: 3928582211261073652}
   m_Layer: 0
-  m_Name: sky-5
+  m_Name: Sky 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4327,7 +4327,7 @@ GameObject:
   - component: {fileID: 3928582211363163362}
   - component: {fileID: 3928582211363163365}
   m_Layer: 0
-  m_Name: CosmicCoolCloud
+  m_Name: Cosmic Cool Cloud
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4459,7 +4459,7 @@ GameObject:
   - component: {fileID: 3928582211423636855}
   - component: {fileID: 3928582211423636854}
   m_Layer: 0
-  m_Name: AmbienceExposure
+  m_Name: Ambience Exposure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4591,7 +4591,7 @@ GameObject:
   - component: {fileID: 3928582211456649547}
   - component: {fileID: 3928582211456649546}
   m_Layer: 0
-  m_Name: CoriolisNight
+  m_Name: Coriolis Night
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4723,7 +4723,7 @@ GameObject:
   - component: {fileID: 3928582211488070495}
   - component: {fileID: 3928582211488070494}
   m_Layer: 0
-  m_Name: sky-10
+  m_Name: Sky 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4855,7 +4855,7 @@ GameObject:
   - component: {fileID: 3928582211548388023}
   - component: {fileID: 3928582211548388022}
   m_Layer: 0
-  m_Name: sky-12
+  m_Name: Sky 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4987,7 +4987,7 @@ GameObject:
   - component: {fileID: 3928582211637675425}
   - component: {fileID: 3928582211637675424}
   m_Layer: 0
-  m_Name: sky-9
+  m_Name: Sky 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
